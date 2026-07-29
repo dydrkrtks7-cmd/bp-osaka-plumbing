@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daeheung-karaoke-note.banpo-massage-review.xyz/sitemap.xml
